@@ -1,8 +1,7 @@
-# manufacturing-performance-analytics
-Industrial manufacturing performance and predictive maintenance analysis using Python, SQL and Power BI.
-
 # Manufacturing Performance Analytics
 ### Predictive Maintenance & Operational Performance
+
+Industrial manufacturing performance and predictive maintenance analysis using Python, SQL and Power BI.
 
 **Data Analytics Portfolio Project | Project 01**
 
